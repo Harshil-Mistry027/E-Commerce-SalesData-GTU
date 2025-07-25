@@ -18,10 +18,10 @@ This dashboard visualizes and analyzes sales data for an e-commerce business. It
 ![Overview Page](Photos/OverviewPage.png)  
 
 ### 📊 2. Sales Analysis Page
-![Sales Analysis](Photos/Sales Analysis.png)
+![Sales Analysis](Photos/Sales%20Analysis.png)
 
 ### 👥 3. Customer Analysis Page
-![Customer Analysis](Photos/Customer Analysis.png)
+![Customer Analysis](Photos/Customer%20Analysis.png)
 
 ### 📐 4. DAX and KPI Summary Page
 ![DAX Page](Photos/DAX.png)
