@@ -12,13 +12,24 @@ This dashboard visualizes and analyzes sales data for an e-commerce business. It
 - Region-wise performance
 - Interactive slicers & filters
 
-## 🖼️ Screenshots
+## 🖼️ Dashboard Screenshots
 
-### Overview Page
-![Overview](images/OverviewPage.png)
+### 📌 Overview Page
+![Overview Page](<img width="1374" height="765" alt="OverviewPage" src="https://github.com/user-attachments/assets/4f2869b8-b2a3-44d2-8606-194ee258a85b" />
+)
 
-### Category-wise Sales
-![Category Sales](images/CategoryPage.png)
+### 📊 DAX
+![DAX](<img width="1371" height="751" alt="DAX" src="https://github.com/user-attachments/assets/9a3a2c0b-4dba-43d6-90b7-6ad9dc2ba363" />
+)
+
+### 📈 Sales Analysis
+![Sales Analysis](<img width="1354" height="766" alt="Sales Analysis" src="https://github.com/user-attachments/assets/411005a3-d5e5-4eac-87b4-2a4e54a948ba" />
+)
+
+### 🌍 Customer Analysis
+![Customer Analysis](<img width="1356" height="777" alt="Customer Analysis" src="https://github.com/user-attachments/assets/4002abcb-16b7-4519-8e3b-c6cdbd3d00d1" />
+)
+
 
 ## 🛠️ Tools Used
 - Power BI Desktop
@@ -27,7 +38,7 @@ This dashboard visualizes and analyzes sales data for an e-commerce business. It
 
 ## 📁 File Info
 - `SalesData_GTU.pbix`: Main Power BI project file
-- `/images`: Contains dashboard screenshots
+- `/Photos`: Contains dashboard screenshots
 
 ---
 
