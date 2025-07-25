@@ -15,8 +15,7 @@ This dashboard visualizes and analyzes sales data for an e-commerce business. It
 ## 🖼️ Dashboard Screenshots
 
 ### 📌 Overview Page
-![Overview Page](<img width="1374" height="765" alt="OverviewPage" src="https://github.com/user-attachments/assets/4f2869b8-b2a3-44d2-8606-194ee258a85b" />
-)
+Photos\OverviewPage.png
 
 ### 📊 DAX
 ![DAX](<img width="1371" height="751" alt="DAX" src="https://github.com/user-attachments/assets/9a3a2c0b-4dba-43d6-90b7-6ad9dc2ba363" />
